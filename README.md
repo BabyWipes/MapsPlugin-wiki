@@ -3,7 +3,7 @@ OresomeCraft Map Development
 
 This interactive tutorial will introduce you to the basics of map development with OresomeCraft.
 
-[![Logo](https://raw.github.com/OresomeCraft/MapsPlugin-wiki/master/assets/logo.gif)](https://raw.github.com/OresomeCraft/MapsPlugin-wiki/master/assets/logo.png)
+[![Logo](https://raw.github.com/OresomeCraft/MapsPlugin-wiki/master/assets/logo.gif)](https://raw.github.com/OresomeCraft/MapsPlugin-wiki/master/assets/logo.gif)
 
 Once you've completed the course and the exercises withing, you'll be able to:
 
