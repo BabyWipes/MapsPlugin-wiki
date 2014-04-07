@@ -5,7 +5,7 @@ This interactive tutorial will introduce you to the basics of map development wi
 
 [![Logo](https://raw.github.com/OresomeCraft/MapsPlugin-wiki/master/assets/logo.gif)](https://raw.github.com/OresomeCraft/MapsPlugin-wiki/master/assets/logo.gif)
 
-Once you've completed the course and the exercises withing, you'll be able to:
+Once you've completed the course and the exercises within, you'll be able to:
 
 - Configure a battles map
 - Add battles maps to the OresomeCraft maps repository
