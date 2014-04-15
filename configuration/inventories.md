@@ -73,7 +73,7 @@ Let's set some items...
 Create a new Iron Sword ItemStack and set it to the third slot of a player's hotbar.
 
 ```js
-
+ItemStack IRON_SWORD =
 ```
 
 ```js

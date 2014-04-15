@@ -67,7 +67,7 @@ The blue spawn should have the following co-ordinates: ```18, 62, 32, -90, 0```
 The red spawn should have the following co-ordinates: ```14, 98, 22, 183, 0```
 
 ```js
-
+redSpawns.add(
 ```
 
 ```js
